@@ -17,4 +17,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true" />
   
 </div>
- ![Snake animation](https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img  src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
+</div>
