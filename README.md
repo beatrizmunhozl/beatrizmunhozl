@@ -12,11 +12,18 @@
   <li> ✨ Meus pronomes: <em>ela / dela</em></li>
 </ul>
 <hr/>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizmunhozl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true" />
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true" />
+  <img height="240em" src="https://user-images.githubusercontent.com/93724854/175121091-082416ea-055b-4139-a83a-80c62f847e2b.gif" />
+</div>
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=beatrizmunhozl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   
 </div>
+
 <div align="center">
   <img  src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
