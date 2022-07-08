@@ -15,7 +15,7 @@
 <hr/>
 
 <div align="center">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true" />
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true&layout=compact" />
   <img height="240em" src="https://user-images.githubusercontent.com/93724854/175121091-082416ea-055b-4139-a83a-80c62f847e2b.gif" />
 </div>
 
