@@ -15,8 +15,8 @@
 <hr/>
 
 <div align="center">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true&layout=compact" />
-  <img height="240em" src="https://user-images.githubusercontent.com/93724854/175121091-082416ea-055b-4139-a83a-80c62f847e2b.gif" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true&layout=compact" />
+  <img height="200em" src="https://user-images.githubusercontent.com/93724854/178074113-3ae8ba8d-6fb1-430b-ad3d-5a56e12a62f2.gif" />
 </div>
 
 <div align="center">
@@ -27,4 +27,5 @@
 <div align="center">
   <img  src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
 
