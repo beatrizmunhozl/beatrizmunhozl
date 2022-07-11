@@ -16,7 +16,7 @@
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true&layout=compact" />
-  <img height="200em" src="https://user-images.githubusercontent.com/93724854/178074113-3ae8ba8d-6fb1-430b-ad3d-5a56e12a62f2.gif" />
+  <img height="200em" src="https://user-images.githubusercontent.com/93724854/178374542-39fbdf2e-f5de-4184-8b40-87fed53fa91d.gif" />
 </div>
 
 <div align="center">
