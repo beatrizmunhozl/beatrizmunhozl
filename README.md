@@ -9,8 +9,8 @@
 </div>
 <hr/>
 <ul>
-  <li> ✨ Atualmente estou em busca de vagas pra Dev FrontEnd Jr</li>
-  <li> ✨ Meus pronomes: <em>ela / dela</em></li>
+  <li> 🇬🇧 My pronouns: <em>she / her</em></li>
+  <li> 🇧🇷 Meus pronomes: <em>ela / dela</em></li>
 </ul>
 <hr/>
 
