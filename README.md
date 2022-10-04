@@ -9,7 +9,7 @@
 </div>
 <hr/>
 <ul>
-  <li> 🇬🇧 My pronouns: <em>she / her</em></li>
+  <li> 🇬🇧 My pronouns: <em>she / her</em></li> 
   <li> 🇧🇷 Meus pronomes: <em>ela / dela</em></li>
 </ul>
 <hr/>
