@@ -9,15 +9,21 @@
    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 <hr/>
-<ul>
-  <li> 🇬🇧 My pronouns: <em>she / her</em></li> 
-  <li> 🇧🇷 Meus pronomes: <em>ela / dela</em></li>
-</ul>
+
+<li> My pronouns: <em>she / her</em></li> 
+<li>
+   <em > Currently Studying: </em>
+</li>
+<div>
+   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> 
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> 
+</div>
+
 <hr/>
 
 <div align="center">
   <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-  <img align="center" src="https://user-images.githubusercontent.com/93724854/178374542-39fbdf2e-f5de-4184-8b40-87fed53fa91d.gif" />
+  <img align="center" height="218" src="https://user-images.githubusercontent.com/93724854/202305205-b344841b-4be5-49e8-a116-7b837c1564f3.gif" />
 </div>
 
 <div align="center">
@@ -28,5 +34,4 @@
 <div align="center">
   <img  src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
 
