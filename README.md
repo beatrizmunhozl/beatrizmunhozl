@@ -10,6 +10,8 @@
 </div>
 <hr/>
 
+
+
 <li> My pronouns: <em>she / her</em></li> 
 <li>
    <em > Currently Studying: </em>
@@ -22,16 +24,17 @@
 <hr/>
 
 <div align="center">
-  <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-  <img align="center" height="218" src="https://user-images.githubusercontent.com/93724854/202305205-b344841b-4be5-49e8-a116-7b837c1564f3.gif" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmunhozl&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=beatrizmunhozl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </div>
 
 <div align="center">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=beatrizmunhozl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  
+   <img height="180" align="center" src="https://github.r2v.ch/codewars?user=BiaMhz&hide_clan=true&theme=purple_dark" />
+   <img  align="center" height="180" src="https://user-images.githubusercontent.com/93724854/202305205-b344841b-4be5-49e8-a116-7b837c1564f3.gif" />
 </div>
 
 <div align="center">
-  <img  src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
+   
+  <img  align="center" src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
