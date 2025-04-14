@@ -33,8 +33,3 @@
    <img  align="center" height="180" src="https://user-images.githubusercontent.com/93724854/202305205-b344841b-4be5-49e8-a116-7b837c1564f3.gif" />
 </div>
 
-<div align="center">
-   
-  <img  align="center" src="https://github.com/beatrizmunhozl/beatrizmunhozl/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
